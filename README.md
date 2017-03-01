@@ -1,0 +1,2 @@
+# parseWebsocet
+用原生php代码完成websocket协议交互过程
